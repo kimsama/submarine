@@ -28,3 +28,7 @@ Output tasks.
 ```bash
 $ bundle exec rake -T
 ```
+
+## Reference
+
+See the [blog page](http://qiita.com/shiwano/items/5891b1356bf08796aafd) for more details.
